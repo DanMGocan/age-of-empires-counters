@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Villager"
+    },
+    {
+        "id": 2,
+        "name": "Militia"
+    },
+    {
+        "id": 3,
+        "name": "Man-at-Arms"
+    },
+    {
+        "id": 4,
+        "name": "Long Swordsman"
+    },
+    {
+        "id": 5,
+        "name": "Two-Handed Swordsman"
+    },
+    {
+        "id": 6,
+        "name": "Champion"
+    },
+    {
+        "id": 7,
+        "name": "Spearman"
+    },
+    {
+        "id": 8,
+        "name": "Pikeman"
+    },
+    {
+        "id": 9,
+        "name": "Halberdier"
+    },
+    {
+        "id": 10,
+        "name": "Eagle Scout"
+    },
+    {
+        "id": 11,
+        "name": "Eagle Warrior"
+    },
+    {
+        "id": 12, 
+        "name": "Elite Eagle Warrior"
+    }
+]
