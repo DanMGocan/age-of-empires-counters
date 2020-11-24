@@ -1,0 +1,22 @@
+{
+  "name": "age-of-empires-counters",
+  "version": "1.0.0",
+  "description": "A small tool to assist Age of Empires II players in taking the best decisions regarding their gameplay. ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanMGocan/age-of-empires-counters.git"
+  },
+  "author": "Dan Gocan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanMGocan/age-of-empires-counters/issues"
+  },
+  "homepage": "https://github.com/DanMGocan/age-of-empires-counters#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
